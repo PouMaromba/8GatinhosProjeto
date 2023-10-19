@@ -1,3 +1,6 @@
+main{
+    text-transform: lowercase;
+}
 *{
     padding: 0%;
     margin: 0%;
